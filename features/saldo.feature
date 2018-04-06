@@ -6,7 +6,7 @@ Funcionalidade: Consultar Saldo
   Quero 2acessar ererexx os saldos das minhas contas
   Para visualizdfgdfgdr as informações de saldo
 
-Contexto: Selecionar ambiente para o teste
+Contexto: Selecioefrernar ambiente para o teste
   Dado que seja123 selecionado o ambiente
 
 @saldo @regressao @smoke
