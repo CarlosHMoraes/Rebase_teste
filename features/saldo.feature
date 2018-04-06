@@ -3,12 +3,17 @@
 
 Funcionalidade: Consultar Saldo
 <<<<<<< HEAD
+<<<<<<< HEAD
   Eu 1como usuári
   Quero 2acessar ererexx odfgdfgs saldos das minhas contas
 =======
   Eu 1como usuário
   Quero acessar saldos das minhas contas
 >>>>>>> fabi 3
+=======
+  Eu 1como usuário
+  Quero acessar saldos das minhas contas
+>>>>>>> ff8ab8ddb681d06735df186cca38e7e287b39875
   Para visualizdfgdfgdr as inforsdfsmações de saldo
 
 Contexto: Selecioefrernar ambiente para o teste
