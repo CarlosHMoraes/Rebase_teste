@@ -3,7 +3,7 @@
 
 Funcionalidade: Consultar Saldo
   Eu 1como usuário123fvdgdfg
-  Quero 2acessar ererexx os saldos das minhas contas
+  Quero 2acessar ererexx odfgdfgs saldos das minhas contas
   Para visualizdfgdfgdr as inforsdfsmações de saldo
 
 Contexto: Selecioefrernar ambiente para o teste
