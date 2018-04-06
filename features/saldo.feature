@@ -3,7 +3,7 @@
 
 Funcionalidade: Consultar Saldo
   Eu 1como usuário
-  Quero 2acessar os saldos das minhas contas
+  Quero 2acessar xx os saldos das minhas contas
   Para visualizar as informações de saldo
 
 Contexto: Selecionar ambiente para o teste
