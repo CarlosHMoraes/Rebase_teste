@@ -1,23 +1,13 @@
 #encoding: utf-8
 #language: pt
 
-Funcionalidade: Consultar Saldo
-<<<<<<< HEAD
-<<<<<<< HEAD
-  Eu 1como usuári
-  Quero 2acessar ererexx odfgdfgs saldos das minhas contas
-=======
+Funcionalidade: Consultar Saldo ok
   Eu 1como usuário
   Quero acessar saldos das minhas contas
->>>>>>> fabi 3
-=======
-  Eu 1como usuário
-  Quero acessar saldos das minhas contas
->>>>>>> ff8ab8ddb681d06735df186cca38e7e287b39875
   Para visualizdfgdfgdr as inforsdfsmações de saldo
 
 Contexto: Selecioefrernar ambiente para o teste
-  Dado que seja selecionado o ambiente
+  Dado que seja123 selecionado o ambiente
 
 @saldo @regressao @smoke
 Cenário: V4alidar consulta de saldo acessando pelo menu
