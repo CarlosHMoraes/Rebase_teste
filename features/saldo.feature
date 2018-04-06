@@ -2,7 +2,7 @@
 #language: pt
 
 Funcionalidade: Consultar Saldo ok
-  Eu 1como usuário
+  Eu 1como usuário 123
   Quero acessar saldos das minhas contas
   Para visualizdfgdfgdr as inforsdfsmações de saldo
 
