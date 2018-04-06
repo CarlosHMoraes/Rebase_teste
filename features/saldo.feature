@@ -9,7 +9,7 @@ Funcionalidade: Consultar Saldo ok
 Contexto: Selecioefrernar ambiente para o teste
   Dado que seja123 selecionado o ambiente
 
-@saldo @regressao @smoke @teste
+@saldo @regressao @smoke 
 Cenário: V4alidar consulta de saldo acessando pelo menu
   Dado que realizar login carlos
   Quando  o saldo no menu MOREAS
