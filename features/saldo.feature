@@ -13,4 +13,4 @@ Contexto: Selecionar ambiente para o teste
 Cenário: V4alidar consulta de saldo acessando pelo menu
   Dado que 232323realizar login
   Quando 2a2cessars o saldo no menu
-  Então 12devo visualizar o saldo consolidado da conta
+  Então 12devo vi232444sualizar o saldo consolidado da conta
