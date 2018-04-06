@@ -4,7 +4,7 @@
 Funcionalidade: Consultar Saldo ok
   Eu como usuário aaa
   Quero acessar saldos das minhas contas
-  Para visualizr as informações de saldo
+  Para visualizar as informações de saldo
 
 @vish
 Contexto: Selecioefrernar ambiente para o teste
