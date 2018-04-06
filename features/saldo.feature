@@ -12,5 +12,5 @@ Contexto: Selecioefrernar ambiente para o teste
 @saldo @regressao @smoke
 Cenário: V4alidar consulta de saldo acessando pelo menu
   Dado que 232323reaewrwelizar login
-  Quando 2a2ceswersars o saldo no menu
+  Quando 2a2ceswersasdaars o saldo no menu
   Então 12devo vi232444sualizar o saldo consolidado da conta
