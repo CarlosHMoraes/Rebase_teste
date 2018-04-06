@@ -2,7 +2,7 @@
 #language: pt
 
 Funcionalidade: Consultar Saldo ok
-  Eu como usuário 
+  Eu como usuário aaa
   Quero acessar saldos das minhas contas
   Para visualizr as informações de saldo
 
