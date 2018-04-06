@@ -7,7 +7,7 @@ Funcionalidade: Consultar Saldo
   Para visualizdfgdfgdr as inforsdfsmações de saldo
 
 Contexto: Selecioefrernar ambiente para o teste
-  Dado que seja123 selecionado o ambiente
+  Dado que seja selecionado o ambiente
 
 @saldo @regressao @smoke
 Cenário: V4alidar consulta de saldo acessando pelo menu
