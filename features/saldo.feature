@@ -13,4 +13,4 @@ Contexto: Selecionar ambiente para o teste
 Cenário: Validar consulta de saldo acessando pelo menu
   Dado que realizar login
   Quando acessar o saldo no menu
-  Então devo visualizar o saldo consolidado da conta
+  Então 1devo visualizar o saldo consolidado da conta
