@@ -10,7 +10,7 @@ Funcionalidade: Consultar Saldo ok
 Contexto: Selecioefrernar ambiente para o teste
   Dado que seja selecionado o ambiente
 
-@saldo @regressao @smoke @teste
+@saldo @regressao @smoke @teste2222
 Cenário: V4alidar consulta de saldo acessando pelo menu
   Dado que realizar login 
   Quando  o saldo no menu 
