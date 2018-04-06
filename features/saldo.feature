@@ -2,7 +2,7 @@
 #language: pt
 
 Funcionalidade: Consultar Saldo
-  Eu 1como usuário123fvdgdfg
+  Eu 1como usuári
   Quero 2acessar ererexx odfgdfgs saldos das minhas contas
   Para visualizdfgdfgdr as inforsdfsmações de saldo
 
