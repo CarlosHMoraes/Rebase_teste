@@ -7,11 +7,17 @@ Funcionalidade: Consultar Saldo ok
   Para visualizdfgdfgdr as inforsdfsmações de saldo
 
 @vish
-Contexto: Selecioefrernar ambiente para o teste
+Contexto: Selecionar ambiente para o teste
   Dado que seja123 selecionado o ambiente
 
 @saldo @regressao @smoke 
+<<<<<<< HEAD
 Cenário: V4alidar consulta de saldo acessando pelo menu
   Dado que realizar login 123
   Quando  o saldo no menu 
+=======
+Cenário: Validar consulta de saldo acessando pelo menu
+  Dado que realizar login 2
+  Quando  o saldo no menu 3
+>>>>>>> dev1
   Então devo visualizar o saldo consolidado da conta
