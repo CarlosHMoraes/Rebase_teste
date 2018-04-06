@@ -2,7 +2,7 @@
 #language: pt
 
 Funcionalidade: Consultar Saldo ok
-  Eu 1como usuário
+  Eu 1como usuário 123
   Quero acessar saldos das minhas contas
   Para visualizdfgdfgdr as inforsdfsmações de saldo
 
@@ -12,6 +12,6 @@ Contexto: Selecioefrernar ambiente para o teste
 
 @saldo @regressao @smoke 
 Cenário: V4alidar consulta de saldo acessando pelo menu
-  Dado que realizar login 
-  Quando  o saldo no menu 
+  Dado que realizar login 2
+  Quando  o saldo no menu 3
   Então devo visualizar o saldo consolidado da conta
