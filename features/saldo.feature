@@ -2,9 +2,9 @@
 #language: pt
 
 Funcionalidade: Consultar Saldo ok
-  Eu 1como usuário 
+  Eu como usuário 
   Quero acessar saldos das minhas contas
-  Para visualizdfgdfgdr as inforsdfsmações de saldo
+  Para visualizr as informações de saldo
 
 @vish
 Contexto: Selecioefrernar ambiente para o teste
