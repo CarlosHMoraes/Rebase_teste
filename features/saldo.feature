@@ -11,6 +11,6 @@ Contexto: Selecionar ambiente para o teste
 
 @saldo @regressao @smoke
 Cenário: Validar consulta de saldo acessando pelo menu
-  Dado que realizar login
+  Dado que 3realizar login
   Quando 2acessar o saldo no menu
   Então 1devo visualizar o saldo consolidado da conta
