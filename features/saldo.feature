@@ -12,5 +12,5 @@ Contexto: Selecioefrernar ambiente para o teste
 @saldo @regressao @smoke
 Cenário: V4alidar consulta de saldo acessando pelo menu
   Dado que realizar login
-  Quando  o saldo no menu
+  Quando  o saldo no menuwerwr
   Então devo visualizar o saldo consolidado da conta
