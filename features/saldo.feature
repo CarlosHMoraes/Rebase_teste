@@ -4,7 +4,7 @@
 Funcionalidade: Consultar Saldo
   Eu 1como usuário
   Quero 2acessar ererexx os saldos das minhas contas
-  Para visualizar as informações de saldo
+  Para visualizdfgdfgdr as informações de saldo
 
 Contexto: Selecionar ambiente para o teste
   Dado que seja selecionado o ambiente
