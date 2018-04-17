@@ -1,6 +1,7 @@
 #encoding: utf-8
 #language: pt
 
+@extrato3
 Funcionalidade: Consultar Extrato
   Eu como usuário
   Quero acessar o extrato da conta
