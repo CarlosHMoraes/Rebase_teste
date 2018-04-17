@@ -3,7 +3,7 @@
 @saldo1 @saldo3 @saldo12
 Funcionalidade: Consultar Saldo ok
   Eu como usuário aaa saldo11
-  Quero acessar saldos das minhas contas
+  Quero acessar saldos das minhas contas saldo15
   Para visualizar as informações de saldo
 
 @vish @teste3333 @teste222 @saldo2 @saldo6 @saldo10
