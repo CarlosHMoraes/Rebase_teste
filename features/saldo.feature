@@ -7,7 +7,7 @@ Funcionalidade: Consultar Saldo ok
   Para visualizar as informações de saldo
 
 @vish @teste3333 @teste222 @saldo2 @saldo6 @saldo10
-Contexto: Selecioefrernar ambiente para o teste
+Contexto: Selecioefrernar ambiente para o teste saldo18
   Dado que seja selecionado o ambiente saldo7
 
 @Novo_Cenario_ConsultarSaldoOk_Saldo_ValidarConsultaSaldoxxx_Menu3 @saldo4
