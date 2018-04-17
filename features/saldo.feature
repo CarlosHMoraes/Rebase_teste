@@ -10,7 +10,7 @@ Funcionalidade: Consultar Saldo ok
 Contexto: Selecioefrernar ambiente para o teste
   Dado que seja selecionado o ambiente
 
-@Novo_Cenario_ConsultarSaldoOk_Saldo_ValidarConsultaSaldoxxx_Menu3 @saldo3
+@Novo_Cenario_ConsultarSaldoOk_Saldo_ValidarConsultaSaldoxxx_Menu3 @saldo4
 Cenário: Validar consulta de saldo acessando pelo menu
   Dado que realizar login 
   Quando  o saldo no menu 
