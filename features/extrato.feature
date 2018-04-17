@@ -8,7 +8,7 @@ Funcionalidade: Consultar Extrato
   Para visualizar as informações de movimentação
 
 @extrato5 @extrato11 @extrato13
-Contexto: Selecionar ambiente para o teste
+Contexto: Selecionar ambiente para o teste extrato14
   Dado que seja selecionado o ambiente extrato7
 
 @extrato @regressao @smoke @extrato1 @xtrato2 @extrato4
