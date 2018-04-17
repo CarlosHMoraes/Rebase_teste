@@ -15,7 +15,7 @@ Cenário: Validar login com cliente não correntista
   Quando realizar o login com um cliente não correntista
   Então devo visualizar a home para clientes não correntista
 
-#@login @regressao
+#@login @regressao @login3
 Cenário: Validar login com CSO ativo
   Dado que acesse o aplicativo Mobile PF
   Quando realizar o login com um "cliente_cso_ativo"
