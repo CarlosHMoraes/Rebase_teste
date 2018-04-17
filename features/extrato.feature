@@ -4,10 +4,10 @@
 @extrato3 @extrato6 @extrato10
 Funcionalidade: Consultar Extrato
   Eu como usuário
-  Quero acessar o extrato da conta
+  Quero acessar o extrato da conta extrato17
   Para visualizar as informações de movimentação
 
-@extrato5 @extrato11 @extrato13
+@extrato5 @extrato11 @extrato13 @extrato16
 Contexto: Selecionar ambiente para o teste extrato14
   Dado que seja selecionado o ambiente extrato7
 
