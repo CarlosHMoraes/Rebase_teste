@@ -1,6 +1,6 @@
 #encoding: utf-8
 #language: pt
-@saldo1
+@saldo1 @saldo3
 Funcionalidade: Consultar Saldo ok
   Eu como usuário aaa
   Quero acessar saldos das minhas contas
