@@ -11,7 +11,7 @@ Contexto: Selecioefrernar ambiente para o teste
   Dado que seja selecionado o ambiente saldo7
 
 @Novo_Cenario_ConsultarSaldoOk_Saldo_ValidarConsultaSaldoxxx_Menu3 @saldo4
-Cenário: Validar consulta de saldo acessando pelo menu
+Cenário: Validar consulta de saldo acessando pelo menu saldo17
   Dado que realizar login saldo9 saldo14
   Quando  o saldo no menu saldo8 saldo13
   Então devo visualizar o saldo consolidado da conta
