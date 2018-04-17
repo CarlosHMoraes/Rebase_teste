@@ -8,7 +8,7 @@ Funcionalidade: Consultar Saldo ok
 
 @vish @teste3333 @teste222 @saldo2 @saldo6
 Contexto: Selecioefrernar ambiente para o teste
-  Dado que seja selecionado o ambiente
+  Dado que seja selecionado o ambiente saldo 7
 
 @Novo_Cenario_ConsultarSaldoOk_Saldo_ValidarConsultaSaldoxxx_Menu3 @saldo4
 Cenário: Validar consulta de saldo acessando pelo menu
