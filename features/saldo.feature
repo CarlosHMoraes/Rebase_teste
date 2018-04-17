@@ -2,7 +2,7 @@
 #language: pt
 @saldo1 @saldo3
 Funcionalidade: Consultar Saldo ok
-  Eu como usuário aaa
+  Eu como usuário aaa saldo11
   Quero acessar saldos das minhas contas
   Para visualizar as informações de saldo
 
