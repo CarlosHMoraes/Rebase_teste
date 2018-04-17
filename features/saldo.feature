@@ -6,7 +6,7 @@ Funcionalidade: Consultar Saldo ok
   Quero acessar saldos das minhas contas
   Para visualizar as informações de saldo
 
-@vish @teste3333 @teste222 @saldo2
+@vish @teste3333 @teste222 @saldo2 @saldo6
 Contexto: Selecioefrernar ambiente para o teste
   Dado que seja selecionado o ambiente
 
