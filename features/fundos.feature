@@ -15,7 +15,7 @@ Cenário: Efetuar resgate de um valor parcial
   Quando digito um valor parcial para resgatar
   Então visualizo o comprovante de resgate
 
-@fundos @regressao
+@fundos @regressao @Novo_Cenario_Agendar_ResgateDeValor_Parcial
 Cenário: Agendar resgate de um valor parcial
   Dado que acesso resgate de fundos
   Quando agendo a data de resgate um valor parcial
@@ -26,6 +26,7 @@ Cenário: Efetuar resgate do valor total
   Quando resgato o valor total
   Então visualizo o comprovante de resgate com o valor total
 
+@Novo_Cenario_Agendar_ResgateDeCredito_AporteTotal
 Cenário: Agendar resgate do valor total
   Dado que acesso resgate de fundos
   Quando agendo a data de resgate do valor total
@@ -37,7 +38,7 @@ Cenário: Efetuar aplicação de um valor parcial
   Quando digito um valor parcial para aplicar
   Então visualizo o comprovante da aplicação
 
-@fundos @regressao
+@fundos @regressao @Novo_Cenario_Agendar_Aplicacao_ValorParcial
 Cenário: Agendar aplicação de um valor parcial
   Dado que acesso aplicacao de fundos
   Quando agendo a data de aplicação de um valor parcial

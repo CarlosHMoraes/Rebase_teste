@@ -10,8 +10,8 @@ Funcionalidade: Consultar Saldo ok
 Contexto: Selecioefrernar ambiente para o teste
   Dado que seja selecionado o ambiente
 
-@saldo @regressao @smoke @teste2222
-Cenário: V4alidar consulta de saldo acessando pelo menu
+@Novo_Cenario_ConsultarSaldoOk_Saldo_ValidarConsultaSaldoxxx_Menu3 @saldo @regressao @smoke @teste2222
+Cenário: Validar consulta de saldo acessando pelo menu
   Dado que realizar login 
   Quando  o saldo no menu 
   Então devo visualizar o saldo consolidado da conta

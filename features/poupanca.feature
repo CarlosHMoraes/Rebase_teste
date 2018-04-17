@@ -9,13 +9,13 @@ Funcionalidade: Poupança
 Contexto: Selecionar ambiente para o teste
   Dado que seja selecionado o ambiente
 
-@poupanca @regressao
+@Novo_Cenario_Poupanca_cartoesValidarTransacao_CreditoNulo @poupanca @regressao
 Cenário: Realizar aplicação de poupança
   Dado que acesse o menu de poupança
   Quando realizar um aplicação na poupança
   Então devo visualizar o comprovante de aplicação realizada
 
-@poupanca @regressao
+@poupanca @Novo_Cenario_teste_banana_uvamista @regressao
 Cenário: Realizar resgate da poupança
   Dado que acesse o menu de poupança
   Quando realizar um resgate da poupança
