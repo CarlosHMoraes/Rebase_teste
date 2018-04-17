@@ -7,7 +7,7 @@ Funcionalidade: Consultar Extrato
   Quero acessar o extrato da conta
   Para visualizar as informações de movimentação
 
-@extrato5 @extrato11
+@extrato5 @extrato11 @extrato13
 Contexto: Selecionar ambiente para o teste
   Dado que seja selecionado o ambiente extrato7
 
