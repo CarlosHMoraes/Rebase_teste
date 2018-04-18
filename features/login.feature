@@ -2,8 +2,8 @@
 #language: pt
 
 Funcionalidade: Login
-  Eu como usuário login1
-  Quero acessar o aplicativo Mobile PF do Santander login2
+  Eu como usuário
+  Quero acessar o aplicativo Mobile PF do Santander
   Para visualizar as informações da minha conta PF
 
 Contexto: Selecionar ambiente para o teste
