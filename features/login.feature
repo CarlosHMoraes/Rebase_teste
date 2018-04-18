@@ -2,7 +2,7 @@
 #language: pt
 
 Funcionalidade: Login
-  Eu como usuário
+  Eu como usuário login1
   Quero acessar o aplicativo Mobile PF do Santander
   Para visualizar as informações da minha conta PF
 
