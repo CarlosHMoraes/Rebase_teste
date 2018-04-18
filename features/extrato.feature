@@ -9,7 +9,7 @@ Funcionalidade: Consultar Extrato
 
 @extrato5 @extrato11 @extrato13 @extrato16
 Contexto: Selecionar ambiente para o teste extrato14
-  Dado que seja selecionado o ambiente extrato7
+  Dado que seja selecionado o ambiente extrato7 extrato18
 
 @extrato @regressao @smoke @extrato1 @xtrato2 @extrato4
 Cenário: Validar consulta do extrato da conta corrente acessando pelo menu
