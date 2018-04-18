@@ -12,5 +12,5 @@ Contexto: Selecionar ambiente para o teste
 @extrato @regressao @smoke
 Cenário: Validar consulta do extrato da conta corrente acessando pelo menu
   Dado que acesse o menu conta corrente
-  Quando realizar a consulta de extrato
+  Quando realizar a consulta de extrato extrato2.2
   Então devo visualizar todas as movimentações da conta
