@@ -2,8 +2,8 @@
 #language: pt
 
 Funcionalidade: Consultar Extrato
-  Eu como usuário
-  Quero acessar o extrato da conta
+  Eu como usuário extrato1
+  Quero acessar o extrato da conta extrato2
   Para visualizar as informações de movimentação
 
 Contexto: Selecionar ambiente para o teste
