@@ -14,3 +14,4 @@ Cenário: Validar consulta do extrato da conta corrente acessando pelo menu
   Dado que acesse o menu conta corrente
   Quando realizar a consulta de extrato
   Então devo visualizar todas as movimentações da conta
+1
