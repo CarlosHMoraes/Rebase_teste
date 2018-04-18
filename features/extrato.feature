@@ -7,7 +7,7 @@ Funcionalidade: Consultar Extrato
   Para visualizar as informações de movimentação
 
 Contexto: Selecionar ambiente para o teste
-  Dado que seja selecionado o ambiente
+  Dado que seja selecionado o ambiente extrato2.1
 
 @extrato @regressao @smoke
 Cenário: Validar consulta do extrato da conta corrente acessando pelo menu
