@@ -14,3 +14,4 @@ Cenário: Validar consulta de saldo acessando pelo menu
   Quando  o saldo no menu 
   Então devo visualizar o saldo consolidado da conta
 5
+7
