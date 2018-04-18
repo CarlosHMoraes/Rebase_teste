@@ -15,3 +15,4 @@ Cenário: Validar consulta do extrato da conta corrente acessando pelo menu
   Quando realizar a consulta de extrato
   Então devo visualizar todas as movimentações da conta
 1
+2
