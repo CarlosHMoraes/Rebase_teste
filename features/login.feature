@@ -26,3 +26,4 @@ Cenário: Validar login com CSO inativo
   Dado que acesse o aplicativo Mobile PF
   Quando realizar o login com um "cliente_cso_inativo"
   Então devo visualizar informativo de cso inativo
+3
