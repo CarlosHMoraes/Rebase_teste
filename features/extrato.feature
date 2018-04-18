@@ -2,7 +2,7 @@
 #language: pt
 
 Funcionalidade: Consultar Extrato
-  Eu como usuário
+  Eu como usuário extrato1
   Quero acessar o extrato da conta
   Para visualizar as informações de movimentação
 
