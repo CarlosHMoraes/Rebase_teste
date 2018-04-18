@@ -6,12 +6,12 @@ Funcionalidade: Consultar Saldo ok saldo22
   Quero acessar saldos das minhas contas saldo15
   Para visualizar as informações de saldo
 
-@vish @teste3333 @teste222 @saldo2 @saldo6 @saldo10
-Contexto: Selecioefrernar ambiente para o teste saldo18
-  Dado que seja selecionado o ambiente saldo7
+@vish
+Contexto: Selecioefrernar ambiente para o teste
+  Dado que seja selecionado o ambiente
 
-@Novo_Cenario_ConsultarSaldoOk_Saldo_ValidarConsultaSaldoxxx_Menu3 @saldo4
-Cenário: Validar consulta de saldo acessando pelo menu saldo17
-  Dado que realizar login saldo9 saldo14 saldo21
-  Quando  o saldo no menu saldo8 saldo13 saldo20
+@Novo_Cenario_ConsultarSaldoOk_Saldo_ValidarConsultaSaldoxxx_Menu3
+Cenário: Validar consulta de saldo acessando pelo menu
+  Dado que realizar login
+  Quando  o saldo no menu
   Então devo visualizar o saldo consolidado da conta
