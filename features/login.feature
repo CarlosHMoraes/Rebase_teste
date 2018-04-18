@@ -27,3 +27,4 @@ Cenário: Validar login com CSO inativo
   Quando realizar o login com um "cliente_cso_inativo"
   Então devo visualizar informativo de cso inativo
 3
+6
